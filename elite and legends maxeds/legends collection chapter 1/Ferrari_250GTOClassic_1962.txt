@@ -498,7 +498,7 @@
         "cpf": false
       },
       "esup": true,
-      "elcl": 2,
+      "elcl": 0,
       "gacp": false,
       "whbn": "",
       "tlad": 0.0,
